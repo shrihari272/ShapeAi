@@ -1,2 +1,2 @@
-#Shape Ai
+# Shape Ai
 Shape AI project
