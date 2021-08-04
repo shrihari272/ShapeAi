@@ -1,1 +1,2 @@
-# shape_ai
+#Shape Ai
+Shape AI project
